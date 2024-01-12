@@ -14,7 +14,9 @@ Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and cl
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_OhWorm.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_OhWorm.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_OddStuff.png" width="450">
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_OddStuff.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_Muto.png" width="450">
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Muto.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_PopSpace.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_PopSpace.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_Blue.png" width="450">
