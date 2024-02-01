@@ -27,3 +27,7 @@ The new Rococo Collection has dropped: Tea Time and Roses!
 ## Installation
 
 Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and click on `Install with Mod Manager` right above.
+
+## About Kelsey
+
+I normally make 2D art. You can find me on [many other websites](https://bopxart.carrd.co/)
