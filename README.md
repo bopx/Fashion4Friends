@@ -4,7 +4,7 @@
 ---
 
 ## Catalogue Updates
-The new Rococo Collection has dropped: Tea Time and Roses!
+The new Rococo Collection has dropped: Tea Time and Roses! For those who wish to look like a vintage sofa.
 
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_TeaTime.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Roses.png" width="450">
