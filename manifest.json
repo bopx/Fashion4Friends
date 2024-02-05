@@ -1,7 +1,7 @@
 {
     "name": "Fashion4Friends",
     "version_number": "1.5.0",
-    "website_url": "https://github.com/bopx/Fashion4Friends",
+    "website_url": "https://bopxart.carrd.co/",
     "description": "These are Kelsey's suits, aren't you lucky to wear them?",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
