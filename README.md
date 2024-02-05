@@ -6,7 +6,7 @@
 ## Catalogue Updates
 
 2/5/24
-Voltson's squadmate Mira- I mean Banana is ready to drop in!
+Voltson's squadmate Mira- I mean Banana is ready to drop in! <i>(I learned how to use Blender for this one...) </i>
 
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Banana.png" width="450">
 2/1/24
