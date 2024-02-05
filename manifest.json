@@ -5,6 +5,6 @@
     "description": "These are Kelsey's suits, aren't you lucky to wear them?",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "x753-More_Suits-1.4.1"
+        "x753-More_Suits-1.5.0"
     ]
 }
