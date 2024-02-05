@@ -5,15 +5,22 @@
 
 ## Catalogue Updates
 
+2/5/24
+Voltson's squadmate Mira- I mean Banana is ready to drop in!
+
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Banana.png" width="450">
 2/1/24
 Enchanté! Voltson is geared up and ready to join your squad :)
 
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_Voltson.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Voltson.png" width="450">
 
 1/31/24
 The new Rococo Collection has dropped: Tea Time and Roses! For those who wish to look like a vintage sofa.
 
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_TeaTime.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_TeaTime.png" width="450">
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_Roses.png" width="450">
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Roses.png" width="450">
 
 ## Fashion Photos
