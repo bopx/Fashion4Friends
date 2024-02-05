@@ -46,3 +46,9 @@ Use [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) and cl
 ## About Kelsey
 
 I normally make 2D art. You can find me on [many other websites](https://bopxart.carrd.co/)
+
+If you for some reason would like to leave a tip, I have a [ko-fi](https://ko-fi.com/thebopx) (thanks!)
+
+
+
+
