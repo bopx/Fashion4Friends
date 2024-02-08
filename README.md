@@ -9,6 +9,7 @@
 Voltson's squadmate Mira- I mean Banana is ready to drop in! <i>(I learned how to use Blender for this one...) </i>
 
 <img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Banana.png" width="450">
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/P_Banana.png" width="450">
 
 <b>2/1/24</b>
 Enchanté! Voltson is geared up and ready to join your squad :)
