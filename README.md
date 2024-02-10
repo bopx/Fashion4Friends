@@ -5,6 +5,12 @@
 
 ## Catalogue Updates
 
+<b>2/10/24</b>
+The Silly Collection is now available. Enter your silly era.
+
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Honk.png" width="450">
+<img src="https://raw.githubusercontent.com/bopx/Fashion4Friends/main/resources/img/PD_Misprinted.png" width="450">
+
 <b>2/5/24</b>
 Voltson's squadmate Mira- I mean Banana is ready to drop in! <i>(I learned how to use Blender for this one...) </i>
 
